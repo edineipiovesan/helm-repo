@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  data-materializer:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2026-01-06T23:25:55.897949-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 05190318e9d8a038e8f7fddaa651f4be92ecfa8aad09d727bcac53a7e41da8cc
+    name: data-materializer
+    type: application
+    urls:
+    - data-materializer-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-01-06T23:25:55.89628-03:00"
