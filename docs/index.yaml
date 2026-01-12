@@ -3,7 +3,7 @@ entries:
   argo-rollout:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.204582-03:00"
+    created: "2026-01-11T21:33:04.907965-03:00"
     description: A Helm chart for Kubernetes
     digest: e12ead14011ac23b7651551f963fdcb57342019bc13d819c93da1a7fc66ddb07
     name: argo-rollout
@@ -13,7 +13,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.204323-03:00"
+    created: "2026-01-11T21:33:04.907834-03:00"
     description: A Helm chart for Kubernetes
     digest: 4cd235c372a7cbaf1b3ed0c8b6b722f1e75b0591febbe85c8263a3af60a46c00
     name: argo-rollout
@@ -23,7 +23,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.204178-03:00"
+    created: "2026-01-11T21:33:04.907684-03:00"
     description: A Helm chart for Kubernetes
     digest: 59a4d57bc1fd4a62bc0a3a1d356f8b890aaef4002a16db29d66c3ff4d9543b8b
     name: argo-rollout
@@ -33,7 +33,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.204032-03:00"
+    created: "2026-01-11T21:33:04.907529-03:00"
     description: A Helm chart for Kubernetes
     digest: 65a4114bfd28fdcfc669a4e6639cdfe162b66aab01063ad3dcfa7c52d92e8927
     name: argo-rollout
@@ -43,7 +43,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.203872-03:00"
+    created: "2026-01-11T21:33:04.907353-03:00"
     description: A Helm chart for Kubernetes
     digest: 523694e0c84b2665793594439e74041717271da6163c49fc7ee64e01575c66f4
     name: argo-rollout
@@ -53,7 +53,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.205642-03:00"
+    created: "2026-01-11T21:33:04.908593-03:00"
     description: A Helm chart for Kubernetes
     digest: e693e85fdc057d356318fe1370e0b6af8528848ee835693682c5f06e0580c5c3
     name: argo-rollout
@@ -63,7 +63,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.205492-03:00"
+    created: "2026-01-11T21:33:04.908477-03:00"
     description: A Helm chart for Kubernetes
     digest: 2d7641d0804406d85589c08e8182301cae22d5b72467f687a03a73a6834c987f
     name: argo-rollout
@@ -73,7 +73,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.205345-03:00"
+    created: "2026-01-11T21:33:04.90836-03:00"
     description: A Helm chart for Kubernetes
     digest: 7b5a3ebf3ed3dcf5a754692dc3a4866b8e3110880639a45cefd3c70e4a2250c3
     name: argo-rollout
@@ -83,7 +83,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.205188-03:00"
+    created: "2026-01-11T21:33:04.908232-03:00"
     description: A Helm chart for Kubernetes
     digest: 8394b7dc6532e2c32cf54e751b281be993a5931a18a35ce4bad48b8ec1cd7a31
     name: argo-rollout
@@ -93,7 +93,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-11T21:30:52.205007-03:00"
+    created: "2026-01-11T21:33:04.908097-03:00"
     description: A Helm chart for Kubernetes
     digest: 268c3b7e1debe876a318579ee2ccbd05bbf64da64129feba00876c451ecc212e
     name: argo-rollout
@@ -104,7 +104,7 @@ entries:
   data-materializer:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-01-11T21:30:52.206778-03:00"
+    created: "2026-01-11T21:33:04.909627-03:00"
     description: A Helm chart for Kubernetes
     digest: 57c704afe705714cd401ad5061b3be3c417303f2e6a6b80164ba2d0b6450b59c
     name: data-materializer
@@ -114,7 +114,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-01-11T21:30:52.206504-03:00"
+    created: "2026-01-11T21:33:04.909382-03:00"
     description: A Helm chart for Kubernetes
     digest: 5716f2c91153c35020f29a912f94d805f8c0e660ac9dab168d1810860310ffc1
     name: data-materializer
@@ -124,7 +124,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-01-11T21:30:52.206228-03:00"
+    created: "2026-01-11T21:33:04.909135-03:00"
     description: A Helm chart for Kubernetes
     digest: 23f6a0756ff3666ddafd43abd15bb6bfb8a6a14e34d11a04180a81d3adc63236
     name: data-materializer
@@ -134,7 +134,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-01-11T21:30:52.20594-03:00"
+    created: "2026-01-11T21:33:04.908864-03:00"
     description: A Helm chart for Kubernetes
     digest: 05190318e9d8a038e8f7fddaa651f4be92ecfa8aad09d727bcac53a7e41da8cc
     name: data-materializer
@@ -142,4 +142,4 @@ entries:
     urls:
     - data-materializer-0.0.1.tgz
     version: 0.0.1
-generated: "2026-01-11T21:30:52.203648-03:00"
+generated: "2026-01-11T21:33:04.906621-03:00"
